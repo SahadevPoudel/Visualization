@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T03:54:40.922Z" agent="5.0 (X11)" etag="Ej-R_BNUF58x1Ay7Zeir" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T03:55:42.127Z" agent="5.0 (X11)" etag="wJePVH8UV3g2TsmFEL3p" version="20.5.1" type="github">
   <diagram id="cD11w4Aue3eWyflHnHAn" name="Page-1">
     <mxGraphModel dx="1422" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -111,6 +111,9 @@
         </mxCell>
         <mxCell id="yaBa-FsnI6j14t0l9z9m-39" value="ACSNet" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="445" y="50" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yaBa-FsnI6j14t0l9z9m-40" value="Kvasir-Capsule" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry y="170" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
