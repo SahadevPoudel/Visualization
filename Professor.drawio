@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T06:00:15.639Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="NtP0wJ3Fmu2zTsKMusPD" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T06:12:55.013Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="uffQSNOcG2DOojjb5HqU" version="21.1.1" type="github">
   <diagram id="7epPweZduik1hx_o-lNC" name="Page-1">
     <mxGraphModel dx="834" dy="2730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,8 +67,38 @@
             <mxPoint x="640" y="-545.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTX-Ii4OGNeSrX99OnlU-20" value="Feature Extractor" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-595" width="140" height="30" as="geometry" />
+        <mxCell id="VTX-Ii4OGNeSrX99OnlU-20" value="Encoder / Feature Extractor" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="-595" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VTX-Ii4OGNeSrX99OnlU-22" value="Novel Style Synthesis Module (NSSM)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-480" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VTX-Ii4OGNeSrX99OnlU-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.167;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VTX-Ii4OGNeSrX99OnlU-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="-475" as="sourcePoint" />
+            <mxPoint x="330" y="-525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTX-Ii4OGNeSrX99OnlU-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.111;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VTX-Ii4OGNeSrX99OnlU-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="-525" as="sourcePoint" />
+            <mxPoint x="360" y="-575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTX-Ii4OGNeSrX99OnlU-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.167;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414.5" y="-482" as="sourcePoint" />
+            <mxPoint x="414.5" y="-526" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTX-Ii4OGNeSrX99OnlU-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.111;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="394.5" y="-526" as="sourcePoint" />
+            <mxPoint x="394.5" y="-480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VTX-Ii4OGNeSrX99OnlU-27" value="Decoder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="644" y="-565" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
