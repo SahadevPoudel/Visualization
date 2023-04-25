@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T12:23:41.993Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="cEZk7dhvmMjPGBpRZkKx" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T12:30:09.953Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="inwoIGk6mmx_7TCuoS22" version="21.2.1" type="github">
   <diagram name="Page-1" id="chNrh5IAOXUtzOCDfoZT">
     <mxGraphModel dx="1367" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -138,6 +138,12 @@
         </mxCell>
         <mxCell id="32GEzlC8_-ixo2tJrArx-38" value="Day 5" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="599" y="732.89" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="32GEzlC8_-ixo2tJrArx-39" value="Blastocysts" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="570" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="32GEzlC8_-ixo2tJrArx-40" value="Blastocysts" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="564" y="570" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
