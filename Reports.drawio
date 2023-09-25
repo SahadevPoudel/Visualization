@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T05:42:47.203Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" version="21.7.4" etag="YIi3VclduvPamH2WWEhw" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T05:44:51.666Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="uXB5Ev9praO72SZEZPCO" version="21.7.4" type="github">
   <diagram name="Page-1" id="ocZOW99iKOlEjIl13Eoy">
-    <mxGraphModel>
+    <mxGraphModel dx="1367" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rYt4ZfYrxySEiimZ_eyA-1" value="Collection of several datasets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYt4ZfYrxySEiimZ_eyA-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="160" as="sourcePoint" />
+            <mxPoint x="330" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYt4ZfYrxySEiimZ_eyA-3" value="Polyp Inpainting-based data augmentation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYt4ZfYrxySEiimZ_eyA-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="159.5" as="sourcePoint" />
+            <mxPoint x="590" y="159.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rYt4ZfYrxySEiimZ_eyA-5" value="Attributes conditioning polyp synthesis module (StyleGAN3)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="130" width="190" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
