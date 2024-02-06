@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T02:07:22.296Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="k_sC7FgAI2VcqEghyGYt" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T02:10:07.223Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="9TzHuXZuQAh6gIK5bUed" version="23.1.1" type="github">
   <diagram name="Page-1" id="v3dpS_OFj6nwQXq7DWlG">
     <mxGraphModel dx="1367" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,7 +38,19 @@
           <mxGeometry x="520" y="265" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZGhQNp2vAks2EuBjemCy-5" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="570" width="430" height="110" as="geometry" />
+          <mxGeometry x="500" y="550" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGhQNp2vAks2EuBjemCy-6" value="Prompt Manager" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="550" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGhQNp2vAks2EuBjemCy-7" value="GPT Model" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="600" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGhQNp2vAks2EuBjemCy-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="630" as="sourcePoint" />
+            <mxPoint x="340" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
