@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T08:22:19.252Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="SXeLyjEkv3U9sYEjjl8J" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T08:22:52.529Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="iT09XjrxI7FT3iLy89Gy" version="23.1.1" type="github">
   <diagram name="Page-1" id="v3dpS_OFj6nwQXq7DWlG">
     <mxGraphModel dx="1367" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -186,6 +186,9 @@
         </mxCell>
         <mxCell id="ZGhQNp2vAks2EuBjemCy-56" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Fusion&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="410" width="71.94" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGhQNp2vAks2EuBjemCy-57" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Visual- audio correlation&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="655.09" y="440" width="141.76" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
